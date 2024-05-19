@@ -14,4 +14,5 @@ Welcome to my Contract Making Application! This project is a Python-based applic
 
 - **Python**: Utilized as the primary programming language for the backend logic and document generation.
 - **Tkinter**: Used for building the graphical user interface (GUI) to enhance user interaction.
-- **docx**: Employed for creating and manipulating Microsoft Word documents 
+- **docx**: Employed for creating and manipulating Microsoft Word documents
+
