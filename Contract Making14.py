@@ -32,7 +32,7 @@ window.title('Contract Making')
 window.config(background='white')
 
 
-############################################################################# Get Input
+############################################################################# Get Input#####
 def get_data():
     i1=doc_date_entry.get_date ()
     i2=combo_box_date_style.get ()
