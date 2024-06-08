@@ -1,5 +1,6 @@
 # Contract Making Application
 
+
 Welcome to my Contract Making Application! This project is a Python-based application designed to streamline the process of generating sales agreement contracts. With a user-friendly interface built using Tkinter, users can input various details such as document date, payment terms, customer information, and more to create customized contracts.
 
 ## Features
