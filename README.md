@@ -17,3 +17,4 @@ Welcome to my Contract Making Application! This project is a Python-based applic
 - **Tkinter**: Used for building the graphical user interface (GUI) to enhance user interaction.
 - **docx**: Employed for creating and manipulating Microsoft Word documents
 
+
