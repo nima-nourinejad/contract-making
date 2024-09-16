@@ -5,6 +5,8 @@ Welcome to my Contract Making Application! This project is a Python-based applic
 
 ## Features
 
+
+
 - **User-friendly Interface**: Built using Tkinter, providing an intuitive and easy-to-use experience for generating contracts.
 - **Dynamic Input Fields**: Allows users to input various contract details such as dates, styles, payment terms, and more.
 - **Customizable Templates**: Supports multiple contract styles and templates for different use cases.
